@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+input {
+    width: 350px;
+}
+
+.bordered {
+    border: solid;
+}
+
+.container {
+    padding: 5px;
+}
+
+button, .button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px 0px 10px 10px;
+}
+
+.header {
+    height: 50px
+}
+
+.ballot {
+    width: 700px;
+    margin: auto;
+}
+
+.block {
+    border: solid;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.container {
+    border: solid;
+}
+
+.divider {
+    height: 2px;
+    background-color: black;
+    margin: 10px 0px;
+}
+
+.footer {
+    height: 100px
+}
+
+.center-horizontally {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+}
